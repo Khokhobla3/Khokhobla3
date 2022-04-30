@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Khokhobla3
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning python and will start javascript
+- 💞️ I’m looking to collaborate on nothing special for the moment
+- 📫 How to reach me.. hmm idk just send me a message here
